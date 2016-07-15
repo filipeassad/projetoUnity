@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: f5c7f243c117d3641b445a4f7ee2be4b
+timeCreated: 1468506575
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: foguete_0
+    21300002: foguete_1
+    21300004: foguete_2
+    21300006: foguete_3
+    21300008: foguete_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 592, z: 0, w: 32}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: foguete_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 607
+        width: 35
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 77}
+        - {x: -15.5, y: 77}
+        - {x: -17.5, y: 53}
+        - {x: -17.5, y: -55}
+        - {x: -12.5, y: -76}
+        - {x: -8.5, y: -77}
+        - {x: 14.5, y: -77}
+        - {x: 17.5, y: -60}
+        - {x: 17.5, y: 50}
+    - name: foguete_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 424
+        width: 34
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -69}
+        - {x: 17, y: -67}
+        - {x: 17, y: 69}
+        - {x: -17, y: 69}
+        - {x: -17, y: -69}
+    - name: foguete_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 226
+        width: 34
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 76.5}
+        - {x: -17, y: 72.5}
+        - {x: -17, y: -76.5}
+        - {x: 17, y: -76.5}
+        - {x: 17, y: 63.5}
+        - {x: 4, y: 76.5}
+    - name: foguete_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 34
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 75.5}
+        - {x: -10, y: 75.5}
+        - {x: -13, y: 67.5}
+        - {x: -17, y: 45.5}
+        - {x: -17, y: -44.5}
+        - {x: -15, y: -72.5}
+        - {x: -11, y: -75.5}
+        - {x: 12, y: -75.5}
+        - {x: 17, y: -55.5}
+        - {x: 17, y: 58.5}
+        - {x: 9, y: 72.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
